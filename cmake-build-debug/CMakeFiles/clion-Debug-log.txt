@@ -1,0 +1,5 @@
+/snap/clion/296/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/harold-madriz/Escritorio/Proyecto2-main -B /home/harold-madriz/Escritorio/Proyecto2-main/cmake-build-debug
+-- Found SFML 2.6.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/harold-madriz/Escritorio/Proyecto2-main/cmake-build-debug

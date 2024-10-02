@@ -1,0 +1,3 @@
+/home/harold-madriz/Escritorio/Proyecto2-main/cmake-build-debug/CMakeFiles/Proyecto2.dir
+/home/harold-madriz/Escritorio/Proyecto2-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/harold-madriz/Escritorio/Proyecto2-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
